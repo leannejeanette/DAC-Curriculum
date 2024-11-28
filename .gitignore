@@ -6,6 +6,10 @@ DAC-016_Internal_Projects
 additional/
 DAC-006_Machine_Learning/datasets/*.csv
 .venv/
+<<<<<<< HEAD
 DAC-006_Machine_Learning/datasets/*.csv
 .venv/
 .newenv/
+=======
+DAC-007_Web_Scraping/*Master*
+>>>>>>> upstream/main
