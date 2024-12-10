@@ -15,7 +15,5 @@ DAC-006_Machine_Learning/datasets/*.csv
 DAC-007_Web_Scraping/*Master*
 >>>>>>> upstream/main
 =======
-DAC-007_Web_Scraping/*Master*
-DAC-008_Intro_To_NLP/*Master*
 DAC-008_Intro_To_NLP/datasets/*.csv
 >>>>>>> eee8c3208d355872e717958358021c99a7868354
